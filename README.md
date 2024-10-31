@@ -22,7 +22,8 @@ Proyek ini sangat cocok untuk mahasiswa, developer pemula, atau siapa pun yang i
 <br>
 
 ## 📂 Struktur Proyek
-├── README.md
+├── vs.code/ <br>
+├── README.md <br>
 ├── struct.c                 # Implementasi Program Struct <br>
 ├── pointer.c                # Implementasi Program Pointer <br>
 ├── linkedList.c             # Implementasi Program Linked List <br>

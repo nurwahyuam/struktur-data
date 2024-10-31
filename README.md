@@ -1,6 +1,7 @@
-# Struktur Data Kelas F2425 🌐
+# Struktur Data 🌐
 
-> Dosen Pengampu : Fawwaz Ali Akbar, S.Kom, M.Kom <br><br>
+> Dosen Pengampu : Fawwaz Ali Akbar, S.Kom, M.Kom <br>
+> Kelas F 2425 <br>
 > Implementasi Struktur Data dalam Program untuk Pembelajaran dan Pengembangan Keterampilan Pemrograman
 
 <br>

@@ -17,20 +17,20 @@ Proyek ini sangat cocok untuk mahasiswa, developer pemula, atau siapa pun yang i
 
 - **Struktur Data Dasar**: Implementasi Pointer, Linked List, Stack.
 - **Algoritma**: Menyertakan berbagai algoritma yang relevan dengan struktur data, seperti operasi setiap materi struktur data.
-- **Studi Kasus**: Menyediakan contoh penggunaan nyata dari struktur data dalam pengembangan aplikasi.
+- **Studi Kasus**: Menyediakan contoh penggunaan nyata dari struktur data.
 
 <br>
 
 ## 📂 Struktur Proyek
 ├── vs.code/ <br>
 ├── README.md <br>
-├── struct.c                 # Implementasi Program Struct <br>
-├── pointer.c                # Implementasi Program Pointer <br>
-├── linkedList.c             # Implementasi Program Linked List <br>
-├── linkedListCircular.c     # Implementasi Program Circular Linked List <br>
-├── linkedListDouble.c       # Implementasi Program Double Linked List <br>
-├── stack.c                  # Implementasi Program Stack <br>
-└── ets.c                    # Contoh Program studi kasus dari materi linked list <br>
+├── struct.c <br>
+├── pointer.c <br>
+├── linkedList.c <br>
+├── linkedListCircular.c <br>
+├── linkedListDouble.c <br>
+├── stack.c <br>
+└── ets.c <br>
 
 <br>
 

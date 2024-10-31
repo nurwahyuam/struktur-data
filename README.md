@@ -45,8 +45,8 @@ Proyek ini sangat cocok untuk mahasiswa, developer pemula, atau siapa pun yang i
 
 **Clone repo ini**:
    ```bash
-   git clone https://github.com/username/struktur-data-101.git
-   cd struktur-data-101
+   git clone https://github.com/nurwahyuam/struktur-data.git
+   cd struktur-data
    ```
 
 <br>

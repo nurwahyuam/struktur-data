@@ -1,9 +1,9 @@
 # Struktur Data Kelas F2425 🌐
 
-> Dosen Pengampu: Fawwaz Ali Akbar, S.Kom, M.Kom
+> Dosen Pengampu: Fawwaz Ali Akbar, S.Kom, M.Kom <br>
 > Implementasi Struktur Data dalam Program untuk Pembelajaran dan Pengembangan Keterampilan Pemrograman
 
-
+<br>
 
 ## 📚 Pendahuluan
 
@@ -11,7 +11,7 @@ Proyek ini bertujuan untuk mengimplementasikan konsep-konsep dasar dari Struktur
 
 Proyek ini sangat cocok untuk mahasiswa, developer pemula, atau siapa pun yang ingin memperkuat pemahaman mereka tentang struktur data dan bagaimana menerapkannya dalam berbagai skenario.
 
-
+<br>
 
 ## 🏗️ Fitur
 
@@ -19,7 +19,7 @@ Proyek ini sangat cocok untuk mahasiswa, developer pemula, atau siapa pun yang i
 - **Algoritma**: Menyertakan berbagai algoritma yang relevan dengan struktur data, seperti operasi setiap materi struktur data.
 - **Studi Kasus**: Menyediakan contoh penggunaan nyata dari struktur data dalam pengembangan aplikasi.
 
-
+<br>
 
 ## 📂 Struktur Proyek
 ├── README.md
@@ -31,13 +31,13 @@ Proyek ini sangat cocok untuk mahasiswa, developer pemula, atau siapa pun yang i
 ├── stack.c                  # Implementasi Program Stack <br>
 └── ets.c                    # Contoh Program studi kasus dari materi linked list <br>
 
-
+<br>
 
 ## 🚀 Teknologi yang Digunakan
 
 - C : Bahasa utama yang digunakan untuk mengimplementasikan struktur data.
 
-
+<br>
 
 ## 📥 Instalasi
 
@@ -46,3 +46,5 @@ Proyek ini sangat cocok untuk mahasiswa, developer pemula, atau siapa pun yang i
    git clone https://github.com/username/struktur-data-101.git
    cd struktur-data-101
    ```
+
+<br>

@@ -22,16 +22,25 @@ Proyek ini sangat cocok untuk mahasiswa, developer pemula, atau siapa pun yang i
 
 <br>
 
-## 📂 Struktur Proyek
+## 📂 Struktur Data Proyek
 ├── vs.code/ <br>
 ├── README.md <br>
 ├── struct.c <br>
+├── struct.exe <br>
 ├── pointer.c <br>
+├── pointer.exe <br>
 ├── linkedList.c <br>
+├── linkedList.exe <br>
 ├── linkedListCircular.c <br>
+├── linkedListCircular.exe <br>
 ├── linkedListDouble.c <br>
+├── linkedListDouble.exe <br>
 ├── stack.c <br>
-└── ets.c <br>
+├── stack.exe <br>
+├── penggunaanStack.c <br>
+├── penggunaanStack.exe <br>
+├── ets.c <br>
+└── ets.exe <br>
 
 <br>
 

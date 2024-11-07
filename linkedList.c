@@ -68,7 +68,6 @@ int main(){
   } while (pilih != 'q');
   return 0;
 }
-//========================================================
 void addFirst(node **head)
 {
   int bil;
@@ -83,7 +82,6 @@ void addFirst(node **head)
   {
     pNew->data = bil;
     pNew->next = NULL;
-    // add before first logical node or to an empty list
     pNew->next = *head;
     *head = pNew;
   }
@@ -93,7 +91,6 @@ void addFirst(node **head)
     getch();
   }
 }
-//========================================================
 void addInBetween(node **head)
 {
   int pos, bil;
@@ -124,7 +121,6 @@ void addInBetween(node **head)
     pCur->next = pNew;
   }
 }
-//========================================================
 void addLast(node **head){
   int bil;
   node *pNew, *pCur;
@@ -136,7 +132,6 @@ void addLast(node **head){
   if (pNew != NULL){
     pNew->data = bil;
     pNew->next = NULL;
-    // jika linked list kosong, node baru menjadi head
     if (*head == NULL){
       *head = pNew;
     } else {
@@ -151,7 +146,6 @@ void addLast(node **head){
     getch();
   }
 }
-//========================================================
 void deleteFirst(node **head){
   node *pTemp;
   if (*head != NULL){
@@ -167,7 +161,6 @@ void deleteFirst(node **head){
     getch();
   }
 }
-//========================================================
 void deleteInBetween(node **head){
   int target;
   node *pCur, *pPrev;
@@ -204,7 +197,6 @@ void deleteInBetween(node **head){
     getch();
   }
 }
-//========================================================
 void deleteLast(node **head){
   node *pCur, *pPrev;
   if (*head == NULL){
@@ -225,7 +217,6 @@ void deleteLast(node **head){
   printf("Data Akhir telah di hapus di dalam linked list.");
   getch();
 }
-//========================================================
 void searchData(node **head){
   int target, found = 0;
   node *pCur;
@@ -249,7 +240,6 @@ void searchData(node **head){
     getch();
   }
 }
-//========================================================
 void viewAmountData(node **head){
   int bil = 0;
   node *pCur;
@@ -262,7 +252,6 @@ void viewAmountData(node **head){
   printf("Total data di dalam linked list adalah %d", bil);
   getch();
 }
-//========================================================
 void viewTotalData(node **head){
   int bil = 0;
   node *pCur;
@@ -275,7 +264,6 @@ void viewTotalData(node **head){
   printf("Total data di dalam linked list jika di jumlah adalah %d", bil);
   getch();
 }
-//========================================================
 void tranverse(node *head)
 {
   // traverse a linked list
@@ -289,4 +277,3 @@ void tranverse(node *head)
   }
   printf("NULL");
 }
-//========================================================

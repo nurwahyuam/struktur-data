@@ -25,6 +25,8 @@ Proyek ini sangat cocok untuk mahasiswa, developer pemula, atau siapa pun yang i
 ## 📂 Struktur Data Proyek
 ├── vs.code/ <br>
 ├── README.md <br>
+├── Garuda Language <br>
+├── Garuda Language <br>
 ├── struct.c <br>
 ├── struct.exe <br>
 ├── pointer.c <br>

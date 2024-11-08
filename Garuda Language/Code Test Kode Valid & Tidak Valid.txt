@@ -1,0 +1,7 @@
+Kode Valid: 
+
+Object obj (in inputParams, out outParams){ <Blob> myInf = new Blob(function(){ data : [{ type: image, size: 100, bg: transparent }]})run process_img(){ this.myInf.blobToImage({ type: jpg })}}
+
+Kode Tidak Valid: 
+
+Object obj (in inputParams, out outParams){ <Blob> myInf = new Blob(function(){ data : [{type: image, size: 100, bg: transparent)]})run process_img(){this.myInf.blobToImage({type: jpg})}}

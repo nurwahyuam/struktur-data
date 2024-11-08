@@ -26,9 +26,9 @@ Proyek ini sangat cocok untuk mahasiswa, developer pemula, atau siapa pun yang i
 ├── vs.code/ <br>
 ├── README.md <br>
 ├── Garuda Language <br>
-│   ├── garudaLanguage.c <br>
-│   ├── garudaLanguage.exe <br>
-│   └── Code Test Kode Valid & Tidak Valid <br>
+│      ├── garudaLanguage.c <br>
+│      ├── garudaLanguage.exe <br>
+│      └── Code Test Kode Valid & Tidak Valid <br>
 ├── struct.c <br>
 ├── struct.exe <br>
 ├── pointer.c <br>

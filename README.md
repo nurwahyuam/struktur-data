@@ -23,10 +23,12 @@ Proyek ini sangat cocok untuk mahasiswa, developer pemula, atau siapa pun yang i
 <br>
 
 ## 📂 Struktur Data Proyek
-├── vs.code/ <br>
+├── .vscode <br>
 ├── README.md <br>
 ├── Garuda Language <br>
-├── Garuda Language <br>
+│      ├── garudaLanguage.c <br>
+│      ├── garudaLanguage.exe <br>
+│      └── Code Test Kode Valid & Tidak Valid <br>
 ├── struct.c <br>
 ├── struct.exe <br>
 ├── pointer.c <br>
